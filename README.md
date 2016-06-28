@@ -31,7 +31,3 @@
 - 웹디자인 레이어 HTML구조화 
 
 <br>
-
-#### ※ Adobe CC Photoshop
-
-- https://goo.gl/ozPJwh
